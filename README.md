@@ -26,8 +26,8 @@ To backtest the strategy, we decided to go ahead with the granularity of 1 minut
 We used Alphavantage's Time Series Stock Data APIs [TIME_SERIES_INTRADAY(Adjusted)](https://www.alphavantage.co/documentation/#intraday-extended) in specific as this provided us with the last 2 years of data (with no money shelling out of our pocket).
 
 ## Flowchart
+![Alt text](images/FlowChart_Algo.png)
 
-![Alt text](FlowChart_Algo.png)
 
 ## How to use?
  First get the data of the stock you want to backtest the strategy against. ![Alt text](images/HowToGetStockDataIntoCSV.png)
