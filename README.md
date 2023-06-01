@@ -38,6 +38,7 @@ We used Alphavantage's Time Series Stock Data APIs [TIME_SERIES_INTRADAY(Adjuste
  We have a lot of things on our mind. But firstly we want to make things easier for the user. So we will host this as a service on some CSP and expose an API out of the service. There is no concrete plan yet but next we talked about,
  - Figuring out the underlying patterns
  - The reason behind those patterns
+ - Evaluate the performance patterns
  - Tuning the input parameters to get the best possible results
  - Giving the user more freedom to define more parameters like allowing the principal to be distributed across different stocks and assign weightage based on his/her preference.
  - Backtest on data of longer time-frame (> 2 years)
